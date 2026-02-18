@@ -28,6 +28,3 @@ Para proteger los pines y que el brillo sea parejo:
 - Azul: 22 Ω
 
 Todas son resistencias de 1/4 W, las más comunes.
-
-## Notas personales
-Este es mi primer acercamiento a los LEDs RGB con ESP32.
